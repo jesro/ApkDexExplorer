@@ -1,11 +1,13 @@
 # ApkDexExplorer [![Android](https://img.shields.io/badge/inactive-ApkDexExplorer-red.svg?style=true)](https://github.com/jesro/ApkDexExplorer)
-ApkDexExplorer library allows you to get all packages from APK
+Dex File Exploration from APK using Tree Structures & Design Patterns
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Improved%20Version%20Available%20(Not%20Yet%20Updated%20in%20Repo)&font=Fira%20Code&width=880&height=50&duration=3000&pause=1000%22%20alt=Improved%20Version%20Available%20(Not%20Yet%20Updated%20in%20Repo)">
 
 ## Usage
 ###### Setup
-This library is available on Jcenter.
+This library is available on Maven.
 ```
-implementation ''
+implementation 'com.jespeakywikis.apkdexexplorer:apkdexexplorer:1.0.0'
 ```
 ###### License
 ```
